@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import "./SearchResult.scss"
+import "./searchResult.scss"
 import { useParams } from 'react-router-dom'
 import {FetchDataFromApi} from "../../utilities/api"
 import Spinner from "../../components/spinner/Spinner"
